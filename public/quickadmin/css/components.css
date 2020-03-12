@@ -2051,7 +2051,7 @@ Customized Bootstrap Buttons
 
 .btn-primary {
   color: #fff;
-  background-color: #428bca;
+  background-color: #5DBCD2;
   border-color: #357ebd;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
@@ -2085,7 +2085,7 @@ Customized Bootstrap Buttons
 
 .btn-success {
   color: #fff;
-  background-color: #45B6AF;
+  background-color:#5DBCD2;
   border-color: #3ea49d;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active {
@@ -2119,8 +2119,8 @@ Customized Bootstrap Buttons
 
 .btn-info {
   color: #fff;
-  background-color: #89C4F4;
-  border-color: #72b8f2;
+  background-color: #5DBCD2;
+  border-color: #5DBCD2;
 }
 .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active {
   color: #fff;
@@ -4322,7 +4322,7 @@ Customized Bootstrap Panels
 }
 .panel-default > .panel-heading {
   color: #333333;
-  background-color: #f9f9f9;
+  background-color:#5DBCD2;
   border-color: #e0e0e0;
 }
 .panel-default > .panel-heading + .panel-collapse .panel-body {

@@ -4,7 +4,8 @@
     <div class="row">
         <div class="col-md-10">
             <div class="panel panel-default">
-                <div class="panel-heading">Welcome! Here are some numbers about LaraQuiz.</div>
+            <a href="wa">
+                <div class="panel-heading">Welcome to wazi Assessments.</div>
 
                 <div class="panel-body">
                     <div class="row">
@@ -27,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <a href="{{ route('tests.index') }}" class="btn btn-success">Take a new quiz!</a>
+            <a href="{{ route('tests.index') }}" class="btn btn-primary">Take a new question!</a>
         </div>
     </div>
 @endsection

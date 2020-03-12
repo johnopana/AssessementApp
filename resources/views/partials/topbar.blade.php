@@ -6,6 +6,7 @@
                    class="navbar-brand">
                     @lang('quickadmin.quickadmin_title')
                 </a>
+                
             </div>
             
             <a href="javascript:;"
